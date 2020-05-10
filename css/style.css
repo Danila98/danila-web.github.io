@@ -196,12 +196,12 @@ address{
 	margin-bottom: 30px;
 }
 .about-address{
-	font-size: 13px;
+	font-size: 17px;
 	margin-bottom: 15px;
 	font-family: Roboto;
 }
 .about-contacts{
-	font-size: 8px;
+	font-size: 10px;
 }
 .about-contacts-link{
 	text-decoration: none;
@@ -281,4 +281,31 @@ address{
 	top: 0;
 	background: #898989;
 
+}
+.level-70:before{
+	width: 70%;
+}
+.level-85:before{
+	content: '';
+	width: 85%;
+}
+.level-67:before{
+	content: '';
+	width: 67%;
+}
+.level-90:before{
+	content: '';
+	width: 90%;
+}
+.level-75:before{
+	content: '';
+	width: 75%;
+}
+.level-60:before{
+	content: '';
+	width: 60%;
+}
+.level-65:before{
+	content: '';
+	width: 65%;
 }
